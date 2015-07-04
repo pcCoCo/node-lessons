@@ -104,3 +104,5 @@ export NVM_DIR="/Users/YOURUSERNAME/.nvm"
 `$ nvm ls`
 
 看一下
+特别注意:
+如果下次启动的时候,使用时没有发现node命令,就重新执行:nvm use 0.12.0
